@@ -1,5 +1,26 @@
 body {
-    background-color: lightblue;
-    color: black
+    background-color: #f7f1e8;
+    color: #333333;
     font-family: arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #8b4513;
+    text-align: center;
+    border-bottom: 2px solid #d2d48c;
+    padding-bottom: 20px;
+}
+h2 {color: #8b4513;
+}
+p {
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+.recipe-card {
+    background-color: white;
+    border: 1px solid #d2d48c;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
 }
